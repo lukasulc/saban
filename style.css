@@ -92,8 +92,3 @@ main img {
 .row {
   margin: 0 !important;
 }
-
-.item {
-  vertical-align: top;
-  display: inline-block;
-}
